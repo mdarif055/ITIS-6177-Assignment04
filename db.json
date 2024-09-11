@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "70fc",
+      "title": "ITIS-6177",
+      "author": "Mohammad Arif"
+    },
+    {
+      "id": "0dce",
+      "title": "UNCC",
+      "author": "Mohammad Arif"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
