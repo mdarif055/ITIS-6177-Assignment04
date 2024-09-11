@@ -1,4 +1,4 @@
-# ITIS-6177-Assignment06
+# ITIS-6177-Assignment04
 ```python
 Install and Run the below commands globally
 $ npm install -g json-server
